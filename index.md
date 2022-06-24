@@ -6,9 +6,9 @@ layout: mytheme
 
 インラインモード$\KaTeX$
 
-$$
+\$\$
   \KaTeX
-$$
+\$\$
 
 インラインモード\(\sqrt{2}\)
 
