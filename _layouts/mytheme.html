@@ -21,6 +21,7 @@
 </head>
 <body>
   <!-- {{ page.content | xml_escape | textilize }} -->
-  {{ content| textilize}}
+  {{ content}}
+  {% raw %}{% block content %}{% endraw %}
 </body>
 </html>
