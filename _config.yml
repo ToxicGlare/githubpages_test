@@ -1,0 +1,3 @@
+# _config.yml
+kramdown:
+  math_engine: mathjax # katexと書いてもGithubPagesはmathjaxに上書きする
