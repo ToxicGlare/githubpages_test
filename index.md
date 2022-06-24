@@ -6,9 +6,9 @@ layout: mytheme
 
 インラインモード$\KaTeX$
 
-\$\$
-\KaTeX
-\$\$
+$$
+  \sin(x)
+$$
 
 インラインモード\(\sqrt{2}\)
 
