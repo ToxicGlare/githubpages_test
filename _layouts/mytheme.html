@@ -20,6 +20,6 @@
   </script>
 </head>
 <body>
-  {{ page.content | escape | textilize }}
+  {{ page.content | xml_escape | textilize }}
 </body>
 </html>
