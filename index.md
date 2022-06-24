@@ -10,9 +10,9 @@ $$
 \sin(x)
 $$
 
-$\Katex$
+$\KaTeX$
 
-$$\Katex$$
+$$\KaTeX$$
 
 インラインモード\(\sqrt{2}\)
 
