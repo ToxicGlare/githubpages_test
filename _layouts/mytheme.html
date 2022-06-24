@@ -6,8 +6,12 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.css" />
   <script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/contrib/auto-render.min.js"></script>
+
+</head>
+<body>
+  <!-- {{ page.content | xml_escape | textilize }} -->
+  {{ page.content| xml_escape}}
   <script>
-    $(document).ready(function(){
       renderMathInElement(document.body,{
         delimiters: [
           {left: "$$", right: "$$", display: true},
@@ -16,11 +20,6 @@
           {left: "[[", right: "]]", display: true},
         ]
       })
-    });
   </script>
-</head>
-<body>
-  <!-- {{ page.content | xml_escape | textilize }} -->
-  {{ page.content| xml_escape}}
 </body>
 </html>
