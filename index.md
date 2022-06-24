@@ -6,4 +6,4 @@ layout: mytheme
 
 インラインモード$\KaTeX$
 
-\$$ \KaTeX \$$
+\$$ \KaTeX $\$
