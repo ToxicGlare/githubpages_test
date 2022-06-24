@@ -8,8 +8,8 @@ layout: mytheme
 $$
 \sin(x)
 $$
-インラインモード[\sqrt{2}]
+インラインモード\(sqrt{2}\)
 
-[[
+\[
 \sin(x)
-]]
+\]
