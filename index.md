@@ -7,7 +7,9 @@ layout: mytheme
 インラインモード$ e^{i\pi} -1 = 0 $
 
 $$
-e^{i\pi} -1 = 0
-
-F(x)=\int^\beta_\alpha f(x)dx
+\begin{aligned}
+e^{i\pi} -1 & = 0
+\\
+F(x)&=\int^\beta_\alpha f(x)dx
+\end{aligned}
 $$
