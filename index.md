@@ -4,15 +4,11 @@ layout: mytheme
 
 # 躍度最小規範による手先軌道生成
 
-インラインモード$\sqrt{2}$
+インラインモード$\KaTeX$
 
 $$
-\sin(x)
+\KaTeX
 $$
-
-$\KaTeX$
-
-$$\KaTeX$$
 
 インラインモード\(\sqrt{2}\)
 
