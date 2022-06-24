@@ -8,6 +8,8 @@ layout: mytheme
 $$
 \sin(x)
 $$
+
+
 インラインモード\(sqrt{2}\)
 
 \[
