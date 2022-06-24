@@ -7,7 +7,7 @@ layout: mytheme
 インラインモード$\KaTeX$
 
 $$
-  \sin(x)
+  \sin(x) \KaTeX
 $$
 
 インラインモード\(\sqrt{2}\)
