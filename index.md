@@ -8,5 +8,8 @@ layout: mytheme
 $$
 \sin(x)
 $$
+インラインモード[\sqrt{2}]
 
-抜粋 引用元: https://www.aozora.gr.jp/cards/000148/files/789_14547.html
+[[
+\sin(x)
+]]
